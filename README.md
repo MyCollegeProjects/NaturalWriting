@@ -11,8 +11,8 @@ This project was a initial proof of concept I did in order to convert the comput
 ![Step 3](/Step%203.PNG)
 
 # Training images
-![Train 1](/Train_1.jpg)
-![Train 2](/Train%202.jpg)
-![Train 3](/Train%203.jpg)
-![Train 4](/Train%204.jpg)
-![Train 5](/Train%205.jpg)
+![Train 1](/TRAIN_1.jpg)
+![Train 2](/TRAIN%202.jpg)
+![Train 3](/TRAIN%203.jpg)
+![Train 4](/TRAIN%204.jpg)
+![Train 5](/TRAIN%205.jpg)
